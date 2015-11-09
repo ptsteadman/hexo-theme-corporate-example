@@ -1,0 +1,34 @@
+# Header
+menu:
+  Home: /
+  Archives: /archives
+rss: /atom.xml
+
+# Content
+excerpt_link: Read More
+fancybox: true
+
+# Sidebar
+sidebar: right
+widgets:
+- category
+- tag
+- tagcloud
+- archive
+- recent_posts
+
+# Miscellaneous
+google_analytics:
+favicon: /favicon.png
+twitter:
+google_plus:
+fb_admins:
+fb_app_id:
+
+about: Select Star is a software development company based in Brooklyn, New York.
+phone: 716-472-4484
+email: ptsteadman@gmail.com
+address_1: 889 Broadway
+address_2: Suite 3A
+address_3: Brooklyn, NY 11206
+skype: ptsteadman
