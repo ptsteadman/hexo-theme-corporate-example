@@ -2,6 +2,11 @@
 menu:
   Home: /
   Archives: /archives
+  Blog: /blog
+  About: /about/
+  Contact: /contact
+  Projects: /projects
+   
 rss: /atom.xml
 
 # Content
