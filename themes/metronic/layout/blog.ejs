@@ -13,13 +13,18 @@
 	      <img class="img-responsive" alt="" src="/metronic/assets/pages/img/works/img4.jpg">
 	    </div>
 	    <div class="col-md-8 col-sm-8">
-	      <h2><a href="blog-item.html"><%= post.title %></a></h2>
+	      <h2><%- link_to(post.path, post.title) %></h2>
 	      <ul class="blog-info">
 		<li><i class="fa fa-calendar"></i> <%- date(post.date,'YYYY/MM/DD') %></li>
 		<li><i class="fa fa-comments"></i> 17</li>
-		<li><i class="fa fa-tags"></i> Metronic, Keenthemes, UI Design</li>
+		<li>
+		  <i class="fa fa-tags pull-left"></i>
+		  <% post.tags.forEach(function(tag, i){ %>
+		    <%- link_to(tag.path, tag.name) %><% if (i != post.tags.length - 1){ %>,<% } %>
+		  <% }); %>
+		</li>
 	      </ul>
-	      <p><%= post.excerpt %></p>
+	      <p><%- post.excerpt %></p>
 	      <a href="blog-item.html" class="more">Read more <i class="icon-angle-right"></i></a>
 	    </div>
 	  </div>
