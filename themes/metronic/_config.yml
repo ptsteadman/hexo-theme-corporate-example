@@ -1,11 +1,10 @@
 # Header
 menu:
   Home: /
-  Archives: /archives
-  Blog: /blog
+  Projects: /projects/
+  Blog: /blog/
+  Contact: /contact/
   About: /about/
-  Contact: /contact
-  Projects: /projects
    
 rss: /atom.xml
 
@@ -30,10 +29,12 @@ google_plus:
 fb_admins:
 fb_app_id:
 
-about: Select Star is a software development company based in Brooklyn, New York.
+about: Computer Lab is a software development and marketing company based in Brooklyn, New York.
 phone: 716-472-4484
 email: ptsteadman@gmail.com
 address_1: 889 Broadway
 address_2: Suite 3A
 address_3: Brooklyn, NY 11206
 skype: ptsteadman
+lat: 40.698171
+long: -73.937021
