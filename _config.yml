@@ -68,4 +68,6 @@ theme: metronic
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: s3
+  bucket: hexotest.computerlab.io
+  region: us-east-1

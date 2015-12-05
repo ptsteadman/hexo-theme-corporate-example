@@ -7,3 +7,4 @@ branches:
     - npm install
   install:
     - hexo generate
+    - hexo deploy
