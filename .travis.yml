@@ -1,0 +1,9 @@
+nguage: node_js
+branches:
+  only:
+    - master
+  before_install:
+    - npm install -g hexo
+    - npm install
+  install:
+    - hexo generate
