@@ -1,4 +1,4 @@
-nguage: node_js
+language: node_js
 branches:
   only:
     - master
