@@ -4,6 +4,3 @@
 
 Hexo theme using the metronic corporate frontend framework, including deployment
 via Travis CI.
-
-Test.
-
