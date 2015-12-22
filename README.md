@@ -4,3 +4,17 @@
 
 Hexo theme using the metronic corporate frontend framework, including deployment
 via Travis CI.
+
+TODO:
+- finish blog pages
+- images for blog
+- project page
+- fix issue with active page in header
+- error pages
+- fix s3 deployer
+- documentation
+- search
+- ga
+- favicon
+- disqus
+- prettify

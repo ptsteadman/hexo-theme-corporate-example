@@ -2,6 +2,8 @@
 layout: post
 title: Make Visual Studio Use Spaces for Newline Indents
 published: true
+category: "Visual Studio"
+thumbnail: https://s3.amazonaws.com/ptsteadman-images/vs.jpg
 ---
 It's really annoying when Visual Studio shows you this:
 
@@ -15,6 +17,8 @@ But github or vim shows you the same file like this:
 If you use the "show whitespace" Visual Studio chord `(CTRL-R, CTRL-W)`, 
 you'll see that visual studio inserts tabs instead of spaces by
 default for newline indent:
+
+<!-- more -->
 
 
 ![_config.yml]({{ site.baseurl }}/images/ws.png)
