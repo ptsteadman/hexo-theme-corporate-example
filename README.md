@@ -8,6 +8,7 @@ via Travis CI.
 TODO:
 - finish blog pages
 - images for blog
+- blog post styling
 - project page
 - fix issue with active page in header
 - error pages
