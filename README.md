@@ -13,7 +13,5 @@ TODO:
 - fix s3 deployer
 - documentation
 - search
-- ga
 - favicon
-- disqus
 - prettify
