@@ -7,7 +7,7 @@ via Travis CI.
 
 TODO:
 - finish blog pages: "featured posts", authors?
-- blog post styling: body text, metadata, forward/back
+- blog post styling: body text
 - breadcrumb / page head styling
 - project page: more information about projects
 - fix issue with active page in header
@@ -15,6 +15,5 @@ TODO:
 - documentation
 - search
 - favicon
-- prettify index and footer
-- color themes
+- prettify index 
 - refactor / eliminate unused code
