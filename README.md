@@ -10,8 +10,6 @@ TODO:
 - blog post styling: body text
 - breadcrumb / page head styling
 - project page: more information about projects
-- fix issue with active page in header
-- fix s3 deployer
 - documentation
 - search
 - favicon
