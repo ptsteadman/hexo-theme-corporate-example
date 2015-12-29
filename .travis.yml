@@ -11,7 +11,6 @@ deploy:
   provider: s3
   bucket: hexotest.computerlab.io
   region: us-east-1
-  local_dir: public
   access_key_id:
     secure: LX/BidqPXwTLy8p4ELyoN0IkbJSVnsXQGb7kwaeo0ePY+jCrEJ7qs2Jg7ODuaJbMryEM5uyXglreEp/nB1BJDeawPPopEgQVghN76OCdk18LNxMOgxQa75aaPeyRi8n10PgU4q4k/+FDgJO4vsdN6FNTtRo1W0YC+CLrEsh3h05bFXgu/aDaM1Ym8l+mYxzBBtL7BFUwfHsTCyO/g5hxx1W2QCHMRUcsNUO9XH5k9WXa+UKhueULm2jqaLjvUfOB3GGaE0AZbi+7BW6Z2k6lFDeomn1NYDpYVF1+uRTULPg52eD/O5nXIKCW/dVb4aYKcNcaXqG2D8xpFd4euna+Eo1AH8PAB05yiYn1r2WiK7a3NhZAd8yNhFmR/WtMge9564uqXr7FqsV1kvhhyyY7pyPah+9YF2+08yxKhBN179MU4P8PSHiGZ58+RXVpx46EORMxgNCvVDhSCzq4xastDuSf6D+uSAP0CGa7iZUeEiTzV9FlIphJC9T7Oc+RH8Q59MgBRWZsDy/29gSTcD2M4G5FusOHRhAxbwtyBM9YYGKknM3sWnQ8s1BMcpU5N6NgO5qXjhuu+bDo2h0uH+3rdBemZmFoCBKttnfcTf3FMeuzGXmSrQ1yZdvbGWm/UmV6OOe6mxjz2jZs+IYzlZ/px+93eUO+hL3mKqRHarhPATE=
   secret_access_key:
