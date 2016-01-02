@@ -1,18 +1,21 @@
 ---
 layout: post
 title: NAV Web Service Programming Resources
+date: 2015-04-08
 thumbnail: https://s3.amazonaws.com/ptsteadman-images/NAV.jpg
 category: "Dynamics NAV"
-featured: true
+tags:
+- NAV
+- Resources
+lede: "Here are some of the resources I found helpful for learning to develop Dynamics NAV web service based applications."
 ---
+
 Here are some of the resources I found helpful for learning to develop Dynamics NAV web service based applications.
 
 #### C/AL Programming:
 
 [Introduction to CAL Programming](http://www.consultec.es/DocTutoriales/Introduction_to_CAL_Programming.pdf)
 This provides a good overview of the basics of CAL programming, which can become necessary in building a web service applications when a custom codeunit or page extension is required.
-
-<!-- more -->
 
 #### Setting up Web Services:
 [Vjecko Web Service Recorded Session](http://vjeko.com/blog/connecting-to-nav-through-web-services-recorded-session)

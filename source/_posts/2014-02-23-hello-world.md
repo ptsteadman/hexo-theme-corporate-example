@@ -1,8 +1,14 @@
-title: Hello World
-tags: [test, bob]
-category: Test
+title: Welcome To Hexo
+category: Hexo
+date: 2014-02-23
+tags:
+- Welcome
+- How-To
 thumbnail: https://s3.amazonaws.com/ptsteadman-images/helloworld.jpg
+lede: "Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on github."
+featured: true
 ---
+
 Welcome to [Hexo](http://hexo.io/)! This is your very first post. Check [documentation](http://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](http://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
 ## Quick Start
