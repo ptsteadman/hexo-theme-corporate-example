@@ -8,6 +8,7 @@ tags:
 category: "Dynamics NAV"
 comments: true
 author: Patrick Steadman
+featured: true
 ---
 
 One of the problems I faced in building a non-trivial application that consumed

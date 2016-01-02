@@ -10,5 +10,4 @@ TODO:
 - blog post styling: body text
 - project page: more information about projects
 - documentation
-- search
 - refactor / eliminate unused code

@@ -3,6 +3,7 @@ layout: post
 title: NAV Web Service Programming Resources
 thumbnail: https://s3.amazonaws.com/ptsteadman-images/NAV.jpg
 category: "Dynamics NAV"
+featured: true
 ---
 Here are some of the resources I found helpful for learning to develop Dynamics NAV web service based applications.
 
