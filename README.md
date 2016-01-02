@@ -8,10 +8,8 @@ via Travis CI.
 TODO:
 - finish blog pages: "featured posts", authors?
 - blog post styling: body text
-- breadcrumb / page head styling
 - project page: more information about projects
 - documentation
 - search
 - favicon
-- prettify index 
 - refactor / eliminate unused code
