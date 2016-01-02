@@ -11,5 +11,4 @@ TODO:
 - project page: more information about projects
 - documentation
 - search
-- favicon
 - refactor / eliminate unused code
