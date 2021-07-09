@@ -8,8 +8,10 @@ To use:
 
 	git clone https://github.com/ptsteadman/hexo-theme-corporate-example --recursive
 	cd hexo-theme-corporate-example
+  git submodule init
+  git submodule update
 	npm install
-	hexo server
+	npx hexo server
 
 TODO:
 - documentation
